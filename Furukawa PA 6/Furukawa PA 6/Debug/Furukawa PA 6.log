@@ -1,0 +1,5 @@
+﻿  menu.cpp
+c:\users\furuk\desktop\cpts 122\furukawa pa 6\furukawa pa 6\menu.cpp(120): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  Furukawa PA 6.vcxproj -> C:\Users\furuk\Desktop\CptS 122\Furukawa PA 6\Debug\Furukawa PA 6.exe
+  Furukawa PA 6.vcxproj -> C:\Users\furuk\Desktop\CptS 122\Furukawa PA 6\Debug\Furukawa PA 6.pdb (Full PDB)
