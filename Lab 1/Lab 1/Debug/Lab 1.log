@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\furuk\desktop\cpts 122\lab 1\lab 1\main.c(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\furuk\desktop\cpts 122\lab 1\lab 1\main.c(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\furuk\desktop\cpts 122\lab 1\lab 1\main.c(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\furuk\desktop\cpts 122\lab 1\lab 1\main.c(68): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Lab 1.vcxproj -> C:\Users\furuk\Desktop\CptS 122\Lab 1\Debug\Lab 1.exe
+  Lab 1.vcxproj -> C:\Users\furuk\Desktop\CptS 122\Lab 1\Debug\Lab 1.pdb (Full PDB)
